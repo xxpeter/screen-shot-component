@@ -1,1 +1,1 @@
-# screen-shot-component
+# screen-shot-compoent
